@@ -12,13 +12,6 @@ Hi, I'm a Weeb Developer who converts caffeine, open-source code, and 2D waifus 
 - [vercel.nvim](https://github.com/tiesen243/vercel.nvim): Neovim theme based on Vercel's design system.
 - [Yukinu](https://yukinu.vercel.app): An multi-vendor e-commerce platform (WIP).
 
-## Stats
-
-<table>
-	<td width="40%"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=tiesen243&layout=donut&hide_title=true&langs_count=4&disable_animations=true&theme=transparent&hide_border=true" width="100%" /></td>
-	<td width="60%"><img src="https://github-stats-extended.vercel.app/api?username=tiesen243&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent&hide_border=true" /></td>
-</table>
-
 ---
 
 <div align="center">
