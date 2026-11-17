@@ -1,16 +1,23 @@
 # Tiesen 🐺
 
-Hi, I'm a Weeb Developer who converts caffeine, open-source code, and 2D waifus into working software. I love building open-source projects for the community, mostly because my code is public but my tears during debugging are private. My open-source repos are free, highly scalable, and well-maintained, which is ironic because my life is currently held together by a single git commit and pure luck. If my code works, it's a miracle; if it doesn't, I have no idea 😭
+Hi! I'm a **Weeb Developer** who enjoys turning ideas, caffeine, and questionable amounts of free time into software.
 
-<img src='https://skillicons.dev/icons?i=arch,neovim,docker,github,bun,postgres,ts,react,nextjs,vite,tailwind,arduino,ps,ai' alt='Technologies' align='center' width='100%' height='auto' />
+I'm passionate about open-source, developer tooling, and building things that make other developers' lives a little easier. Most of my work revolves around the TypeScript ecosystem, web technologies, and occasionally some hardware tinkering.
+
+I use Arch, love Neovim, and firmly believe that every problem can be solved with enough debugging, stubbornness, and another cup of coffee.
+
+<img src='https://skillicons.dev/icons?i=arch,neovim,github,gitlab,cloudflare,vercel,docker,ts,python,react,nextjs,vite,tailwind,bun,elysia,postgres,arduino,raspberrypi,ps,ai&perline=10' alt='Technologies' align='center' width='100%' height='auto' />
 
 ## Stuff I Make
 
-- [tiesen](https://tiesen.id.vn): My personal website where I share my projects and blog posts about web development and anime.
-- [Create Yuki Stack](https://npmjs.com/package/create-yuki-stack): A CLI tool to quickly scaffold a new project.
-- [Yuki UI](https://ui.tiesen.id.vn): A modern component library for building web applications with React and TypeScript.
-- [vercel.nvim](https://github.com/tiesen243/vercel.nvim): Neovim theme based on Vercel's design system.
-- [Yukinu](https://yukinu.vercel.app): An multi-vendor e-commerce platform (WIP).
+A collection of projects I've been working on, from developer tools to full-stack applications.
+
+- [**Create Yuki Stack**](https://npmjs.com/package/create-yuki-stack) — A CLI tool to quickly scaffold projects with a modern, opinionated tech stack.
+- [**Yuki UI**](https://ui.tiesen.id.vn) — A modern React component library focused on TypeScript, reusability, and developer experience.
+- **Effect TanStack Query** — A type-safe integration between Effect HTTP API clients and TanStack Query.
+- [**Yukinu**](https://yukinu.vercel.app) — A multi-vendor e-commerce platform.
+- **Rozumari** — An IoT-powered medication reminder system combining embedded hardware and software.
+- [**vercel.nvim**](https://gitlab.com/tiesen243/vercel.nvim) — A Neovim colorscheme inspired by Vercel's design system.
 
 ---
 
