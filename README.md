@@ -7,7 +7,7 @@ Hi, I'm a Weeb Developer who converts caffeine, open-source code, and 2D waifus 
 <a href="https://placefile.cnrad.workers.dev/u/tiesen243/tap">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://placefile.cnrad.workers.dev/u/tiesen243/canvas.svg?theme=dark">
-    <img ismap src="https://placefile.cnrad.workers.dev/u/YOUR_USERNAME/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
+    <img ismap src="https://placefile.cnrad.workers.dev/u/tiesen243/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
   </picture>
 </a>
 
@@ -27,9 +27,6 @@ Hi, I'm a Weeb Developer who converts caffeine, open-source code, and 2D waifus 
 	<td width="40%"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=tiesen243&layout=donut&hide_title=true&langs_count=4&disable_animations=true&theme=transparent&hide_border=true" width="100%" /></td>
 	<td width="60%"><img src="https://github-stats-extended.vercel.app/api?username=tiesen243&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent&hide_border=true" /></td>
 </table>
-
-![snake-dark](https://raw.githubusercontent.com/tiesen243/tiesen243/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake-light](https://raw.githubusercontent.com/tiesen243/tiesen243/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
