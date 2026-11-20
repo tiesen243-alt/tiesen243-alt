@@ -14,7 +14,7 @@ A collection of projects I've been working on, from developer tools to full-stac
 - [**Yuki UI**](https://ui.tiesen.id.vn) — A modern React component library focused on TypeScript, reusability, and developer experience.
 - [**Effect TanStack Query**](https://npmx.dev/package/@tiesen/effect-tanstack-query) — A type-safe integration between Effect HTTP API clients and TanStack Query.
 - [**Yukinu**](https://yukinu.vercel.app) — A multi-vendor e-commerce platform.
-- **Rozumari** — An IoT-powered medication reminder system combining embedded hardware and software.
+- [**Rozumari**](https://rozumari.vercel.app) — An IoT-powered medication reminder system combining embedded hardware and software.
 - [**vercel.nvim**](https://gitlab.com/tiesen243/vercel.nvim) — A Neovim colorscheme inspired by Vercel's design system.
 
 ---
